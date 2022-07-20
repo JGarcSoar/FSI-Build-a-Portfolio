@@ -2,6 +2,7 @@ div {
     line-height: 1.89em;
     background-color: #ccedff;
     text-align: center;
+    text-size-adjust: auto;
     color:#3e2ab5;
     border-radius: 25px;
     border-style: solid;
@@ -23,9 +24,11 @@ img {
     width: 300px;
     filter: sepia(20%)
 }
+
 .credit {
     font-size: xx-small;
 }
+
 .new1 {
     border-style: double
 }
