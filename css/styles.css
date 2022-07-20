@@ -1,0 +1,31 @@
+div {
+    line-height: 1.89em;
+    background-color: #ccedff;
+    text-align: center;
+    color:#3e2ab5;
+    border-radius: 25px;
+    border-style: solid;
+}
+
+.maindev {
+    background-color: #78d0ff;
+    border-radius: 50px;
+    border-style: solid;
+}
+
+ul {
+    list-style-type: square;
+    list-style-position: inside;
+}
+
+img {
+    border-radius: 50%;
+    width: 300px;
+    filter: sepia(20%)
+}
+.credit {
+    font-size: xx-small;
+}
+.new1 {
+    border-style: double
+}
